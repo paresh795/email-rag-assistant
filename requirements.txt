@@ -1,0 +1,7 @@
+   langchain==0.0.200
+   openai==0.27.8
+   google-auth-oauthlib==0.4.6
+   google-auth-httplib2==0.1.0
+   google-api-python-client==2.86.0
+   python-dotenv==1.0.0
+   faiss-cpu==1.7.4
