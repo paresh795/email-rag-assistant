@@ -16,6 +16,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+email_rag_env/
 
 # OAuth
 token.pickle
@@ -36,3 +37,5 @@ client_secret.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+   # Virtual environm
